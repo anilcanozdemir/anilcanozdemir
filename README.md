@@ -2,7 +2,7 @@
 - 👀 I’m interested in Games,Artificial Intellıgence
 - 🌱 I’m currently learning Test Automation
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me e-mail:anilcanozdemir1020@gmail.com
 
 <!---
 anilcanozdemir/anilcanozdemir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
