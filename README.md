@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anilcanozdemir
 - 👀 I’m interested in Games,Artificial Intellıgence Test Automation
-- 🌱 I’m currently learning Test Automation
+- 🌱 I’m currently learning Test Automation and Java Backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me e-mail:anilcanozdemir1020@gmail.com
 
