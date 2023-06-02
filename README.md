@@ -24,4 +24,4 @@
 <br>
            
   
-[![Anıl's GitHub stats](https://github-readme-stats.vercel.app/api?username=anilcanozdemir)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anilcanozdemir&show_icons=true)
