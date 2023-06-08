@@ -11,7 +11,7 @@
 - 🎂 25.08.1998
 
 ### Contact with me:
-<div><img align="center" alt="anilcanozdemir | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> <b>! Cloud#0004</b> </div>
+<div><img align="center" alt="anilcanozdemir | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> <b>cloudistaken</b> </div>
 <div><img align="center" alt="anilcanozdemir | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> <b> anilcanozdemir1020@gmail.com </b> </div>
 
 ### Connect with me:
