@@ -1,27 +1,48 @@
-### 👋 Hi there, I'm Anıl 👋
+<h1 align="center">Hi 👋, I'm Anıl Can Özdemir</h1>
+<h3 align="center">Backend Developer</h3>
 
-## Fresh graduate software developer candidate
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anilcanozdemir&label=Profile%20views&color=0e75b6&style=flat" alt="anilcanozdemir" /> </p>
 
-- 📚 I’m currently learning Java and Spring.
-- 📫 Graduated from Eskişehir Osmangazi University Computer Engineering
-- 🚀 Preferred languages (But I like learning new ones): Java, C# Python
-- 👉 Deep Learning, Spring Framework, Web Development
-- 🚩 Bursa, Turkey
-- ⚽ Fenerbahçe 🟡🔵
-- 🎂 25.08.1998
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anilcanozdemir" alt="anilcanozdemir" /></a> </p>
+
+- 🌱 I’m currently learning **React, Vue , Kotlin**
+
+- 💬 Ask me about **Angular, .net(6), spring boot**
 
 ### Contact with me:
 <div><img align="center" alt="anilcanozdemir | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> <b>cloudistaken</b> </div>
 <div><img align="center" alt="anilcanozdemir | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> <b> anilcanozdemir1020@gmail.com </b> </div>
 
-### Connect with me:
-<a href="https://open.spotify.com/user/ravensscry?si=45bfe08af72348d0" target="blank"><img align="left" alt="anilcanozdemir | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
-<a href="https://www.linkedin.com/in/anilcanozdemir/" target="blank"> <img align="left" alt="anilcanozdemir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<a href="https://www.instagram.com/anil.text/" target="blank"> <img align="left" alt="anilcanozdemir | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/anilcanozdemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anilcanozdemir" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/ravensscry?si=45bfe08af72348d0" target="blank"><img align="left" alt="anilcanozdemir | Spotify" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
+<a href="https://www.instagram.com/anil.text/" target="blank"> <img align="left" alt="anilcanozdemir | Instagram" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</p>
 
-<br>
-<br>
-<br>
-           
-  
-![Anıl's GitHub stats](https://github-readme-stats.vercel.app/api?username=anilcanozdemir&show_icons=true)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anilcanozdemir&show_icons=true&locale=en&layout=compact" alt="anilcanozdemir" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilcanozdemir&show_icons=true&locale=en" alt="anilcanozdemir" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anilcanozdemir&" alt="anilcanozdemir" /></p>
