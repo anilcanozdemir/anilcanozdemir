@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anilcanozdemir" alt="anilcanozdemir" /></a> </p>
 
-- 🌱 I’m currently learning **C#, .NET , Kotlin**
+- 🌱 I’m currently learning ** .NET , Kotlin , Spring**
 
 - 💬 Ask me about **Java, spring boot**
 
