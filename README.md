@@ -4,7 +4,7 @@
 
 - 📚 I’m currently learning Java and Spring.
 - 📫 Graduated from Eskişehir Osmangazi University Computer Engineering
-- 🚀 Preferred languages (But I like learning new ones) : Java, C# Python
+- 🚀 Preferred languages (But I like learning new ones): Java, C# Python
 - 👉 Deep Learning, Spring Framework, Web Development
 - 🚩 Bursa, Turkey
 - ⚽ Fenerbahçe 🟡🔵
