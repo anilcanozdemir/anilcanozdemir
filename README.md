@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anilcanozdemir" alt="anilcanozdemir" /></a> </p>
 
-- 🌱 I’m currently learning **React, Vue , Kotlin**
+- 🌱 I’m currently learning **C#, .NET , Kotlin**
 
-- 💬 Ask me about **Angular, .net(6), spring boot**
+- 💬 Ask me about **Java, spring boot**
 
 ### Contact with me:
 <div><img align="center" alt="anilcanozdemir | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> <b>cloudistaken</b> </div>
